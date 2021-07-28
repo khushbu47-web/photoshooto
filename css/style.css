@@ -1,0 +1,46 @@
+﻿@import 'bootstrap.min.css';
+
+.clear-fix {
+    clear-fix: both;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.heading_section h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #015888;
+    text-align: center;
+    margin: 14px 0px;
+}
+.testimonial_content h4 {
+    font-size: 24px;
+    font-weight: 700;
+}
+.testimonial_content h3 {
+    font-size: 24px;
+    font-weight: 400;
+}
+.testimonial_img img {
+    border-radius: 50%;
+    height: 73px;
+    width: 80px;
+}
+.testimonial_img {
+    margin-right: 71px;
+    display: inline-block;
+    float: left;
+}
+.testimonial_section p {
+    margin: 0px;
+    padding-top: 25px;
+    font-size: 18px;
+}
+.testimonial_section {
+    border-radius: 29px;
+    background-color: #005A8C;
+    color: #FFFFFF;
+    padding: 15px;
+}
